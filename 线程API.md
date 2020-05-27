@@ -1,0 +1,9 @@
+1. CreateThread
+2. Sleep
+3. SuspendThread
+4. ResumeThread
+5. WaitForSingleObject
+6. WaitForMultipleObjects
+7. GetExitCodeThread
+8. GetThreadContext
+9. SetThreadContext
